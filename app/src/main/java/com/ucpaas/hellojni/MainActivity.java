@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         mTest = (TextView) findViewById(R.id.text);
         mTest.setText(HelloJni.getFromCString());
         //功能1
+        //功能2
     }
 }
