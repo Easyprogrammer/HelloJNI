@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
         mTest.setText(HelloJni.getFromCString());
         //功能1
         //功能2
-        //master feature-2
+        //master feature-4
     }
 }
