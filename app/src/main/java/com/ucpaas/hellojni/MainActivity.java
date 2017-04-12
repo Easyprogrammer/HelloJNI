@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
         //功能1
         //功能2
         //master feature-1
+        //master feature-2
     }
 }
